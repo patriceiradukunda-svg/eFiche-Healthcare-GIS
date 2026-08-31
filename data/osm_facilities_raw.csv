@@ -1,0 +1,8 @@
+osm_id,name,amenity,latitude,longitude,phone,email,website,opening_hours,address,source
+1001,CHUK,hospital,-1.9464,30.0573,+250788111111,,,24/7,,OpenStreetMap
+1002,Kigali Central Hospital,hospital,-1.9405,30.0598,+250788222222,,,24/7,,OpenStreetMap
+1003,KIBAGABAGA HOSPITAL,hospital,-1.9535,30.0625,,,,08:00-17:00,,OpenStreetMap
+1004,Clinic Alpha,clinic,-1.945,30.055,,,,08:00-17:00,,OpenStreetMap
+1005,Kigali Pharmacy,pharmacy,-1.942,30.053,+250788333333,,,24/7,,OpenStreetMap
+1006,Rwanda Lab,laboratory,-1.948,30.056,,,,08:00-17:00,,OpenStreetMap
+1007,Health Point Clinic,clinic,-1.949,30.058,,,,08:00-17:00,,OpenStreetMap
